@@ -13,4 +13,4 @@ Note: Copying the folder "data" and "model" (can be found [here](https://drive.g
 
 
 # Reference
-[1]. Kitsune Python implement https://github.com/ymirsky/Kitsune-py
+[1]. Kitsune Python implementation https://github.com/ymirsky/Kitsune-py
