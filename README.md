@@ -1,5 +1,5 @@
 # KitsuneAttackCode
-This repository contains python code in form of Jupyter Notebook for adversarial attack on Kitsune model. The experiments are conducted on dataset Mirai (code under "exp-mirai") and VideoInjection (code under "exp-videoinjection") of \[1\].
+This repository contains python code in form of Jupyter Notebook for adversarial attack on Kitsune model (Our paper [Adversarial Attacks Against Network Intrusion Detection in IoT](https://ieeexplore.ieee.org/document/9311132)). The experiments are conducted on dataset Mirai (code under "exp-mirai") and VideoInjection (code under "exp-videoinjection") of \[1\].
 Note: Copying the folder "data" and "model" (can be found [here](https://drive.google.com/drive/folders/1_GPJrO0drKq6qbL1GKi0ebOBu_g208tj?usp=sharing.)) under respective folder.
 
 # Run the test for dataset Mirai
